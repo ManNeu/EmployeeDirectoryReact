@@ -14,12 +14,12 @@ and run 'npm start'
 User can view the entire employee directory at once and have all the information about them. User can  sort the directory and filter the users by at least one property.
 
 ## Links to the application
-- Github repository link: ()
-- deployed link: ()
+- Github repository link: (https://github.com/ManNeu/EmployeeDirectoryReact)
+- deployed link: (https://manneu.github.io/EmployeeDirectoryReact/)
 
 ## Screenshots
-![screenshot of deployed app]()
-![screenshot of MongoDb data]()
+![screenshot of deployed app](./IMAGES/EMPLOYEEDIRECTORY.png)
+
 
 ## Built With
 - VS Code - (https://code.visualstudio.com/)
