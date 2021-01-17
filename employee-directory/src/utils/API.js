@@ -1,6 +1,6 @@
 // import React from "react";
 import axios from "axios";
-
+// eslint-disable-next-line
 export default {
 
     getUsers: function () {
